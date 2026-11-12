@@ -1,0 +1,10 @@
+    PID COMMAND            VSZ   RSS
+1426326 fwupd           574168 30064
+1386289 multipathd      288960 27300
+1607803 snapd           1781308 25140
+1386284 systemd-journal  66876 20472
+    758 unattended-upgr 109660 12748
+2230396 sshd             14744 10588
+      1 systemd          22628 10444
+   1091 code-2d0b7506a3  40492  7624
+1386288 systemd-resolve  21480  7392
